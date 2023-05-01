@@ -1,4 +1,5 @@
 <?php
-echo "오늘 저녁?"
-echo "3반"
+echo "2반 천재"
+echo "3반 천재"
+echo "4반 천재"
 ?>
